@@ -1,2 +1,2 @@
 # dance
-https://github.com/jaerickson/dance.git
+https://jaerickson.github.io/dance/
