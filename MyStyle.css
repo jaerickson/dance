@@ -1,0 +1,20 @@
+body {
+	 background-color: rgb(128,128,128);
+}
+
+h1{
+	font-family: arial;
+	font-size: 200%;
+	color: cyan;
+}
+
+p{
+	font-family: arial;
+	font-size: 100%;
+	color: purple;
+}
+
+p cite{
+	font-family: verdana;
+	color: cyan;
+}
